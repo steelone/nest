@@ -34,6 +34,8 @@ $ npm install
 
 ### Don't forget to set Mongo User & Password in .env file
 
+- use the .env.example file :wink:
+
 ## Running the app
 
 ```bash
